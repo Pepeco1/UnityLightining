@@ -6167,10 +6167,6 @@ PrefabInstance:
       propertyPath: m_Name
       value: CameraPositions
       objectReference: {fileID: 0}
-    - target: {fileID: 4208418283911946472, guid: 69e744f729fbcdb4096d3bc8e99991e3, type: 3}
-      propertyPath: m_Controller
-      value: 
-      objectReference: {fileID: 9100000, guid: c26d1f13eaf6f16458a0f269bd915a9a, type: 2}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
@@ -10739,7 +10735,7 @@ Transform:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 3547149924405434140}
   serializedVersion: 2
-  m_LocalRotation: {x: -0.000020398857, y: -0.99974597, z: 0.0038951703, w: 0.022199113}
+  m_LocalRotation: {x: -0.000020398858, y: -0.99974597, z: 0.0038951705, w: 0.022199113}
   m_LocalPosition: {x: -1.4289117, y: 2.12, z: 3.638651}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_ConstrainProportionsScale: 0
